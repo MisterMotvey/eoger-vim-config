@@ -1,3 +1,9 @@
+eoger-vim-config
+===============
+
+Removed all language specific heavy plugins.
+
+
 fisa-vim-config
 ===============
 
